@@ -1,0 +1,4 @@
+mcp==1.30.0
+Django==6.1.2
+djangorestframework==3.18.3
+anyio==4.15.1

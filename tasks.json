@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "task": "Study Python for 30 minutes",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "task": "Study Django for 20 minutes",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "task": "Study Django for 10 minutes",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Django Reset Framework",
+    "completed": false
+  }
+]
